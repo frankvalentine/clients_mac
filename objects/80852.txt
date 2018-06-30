@@ -4,7 +4,7 @@ containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.900000
@@ -42,7 +42,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
 spriteID=357
 pos=0.000000,0.000000
 rot=0.000000

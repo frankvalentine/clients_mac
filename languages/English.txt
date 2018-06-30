@@ -138,6 +138,12 @@ breastMilk "DRANK BREAST MILK"
 you "YOU"
 eat "EAT"
 
+youWith "YOU WITH"
+with "WITH"
+
+yum "YUM"
+meh "MEH"
+
 
 eatHint "MOUTH"
 bareHandHint "BARE HAND"
@@ -153,6 +159,7 @@ tabHint "[TAB]"
 
 
 your "YOUR"
+of "OF"
 
 mother "MOTHER"
 son "SON"
@@ -162,6 +169,12 @@ great "GREAT "
 
 brother "BROTHER"
 sister "SISTER"
+
+little "LITTLE"
+big "BIG"
+twin "TWIN"
+identical "IDENTICAL"
+
 
 aunt "AUNT"
 uncle "UNCLE"
@@ -238,6 +251,14 @@ okay "OK"
 quit "QUIT"
 
 reborn "GET REBORN"
+
+
+
+bugMessage1 "WILD BUG APPEARED!####AFTER THIS LIFE IS OVER,##PLEASE QUIT AND EMAIL YOUR STDOUT.TXT TO:"
+
+
+bugMessage2 "PRESS [%] TO CONTINUE PLAYING"
+
 
 
 

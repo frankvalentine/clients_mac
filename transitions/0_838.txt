@@ -1,3 +1,1 @@
-837 0 0 0.000000 0.000000 0 0 0 1
-
-##empty hand + mushroom pit = mushroom + nothing
+837 788 0 0.000000 0.000000 0 0 0 1
